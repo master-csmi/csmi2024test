@@ -4,6 +4,9 @@
 
 == List of students
 
+
+- Giulio
 - Antoine
 - Pierre-Antoine
 - Justine
+- Béni
