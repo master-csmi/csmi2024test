@@ -5,7 +5,7 @@
 == List of students
 
 
-- Giulio
+- Giulio Carpi
 - Antoine
 - Pierre-Antoine
 - Justine
